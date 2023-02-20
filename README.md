@@ -14,3 +14,5 @@ Employee Management System includes:
 # SOFTWARE USED:
  NetBeans 16,
  XAMPP 3.3.0
+ # Screenshots
+![login](https://user-images.githubusercontent.com/88700612/220032888-ed5a8e5f-9cb7-4ba4-bc45-9b538af245e1.png)
