@@ -12,5 +12,5 @@ Employee Management System includes:
    5. SALARY RECEIPT
    6. ALLOWANCE
 # SOFTWARE USED:
-> NetBeans 16
-> XAMPP 3.3.0
+ NetBeans 16
+ XAMPP 3.3.0
