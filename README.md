@@ -15,9 +15,12 @@ Employee Management System includes:
  NetBeans 16,
  XAMPP 3.3.0
  # Screenshots
- 1)Login
+ Login:
+ 
 ![login](https://user-images.githubusercontent.com/88700612/220032888-ed5a8e5f-9cb7-4ba4-bc45-9b538af245e1.png)
-2)Menu
+
+Menu:
+
 ![menu](https://user-images.githubusercontent.com/88700612/220033122-ac6db395-28ea-4cdc-bad8-5e0edfdbee89.png)
 
 Add:
